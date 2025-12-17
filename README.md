@@ -1,0 +1,3 @@
+The Agentic AI-driven RFP Automation System streamlines the complete RFP lifecycle. RFPs are ingested from emails, procurement portals, and partner networks using an AI ingestion agent. 
+An orchestration agent analyzes the intent, breaks the RFP into tasks, and coordinates multiple specialized agents for information extraction, semantic matching with enterprise products, proposal content generation, and pricing and compliance validation.
+The system utilizes enterprise knowledge bases, vector search, and structured databases to ensure accuracy and consistency. The generated high-quality proposal draft is presented through a secure collaboration platform for team review, editing, and final submission.
